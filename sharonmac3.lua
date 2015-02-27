@@ -8,16 +8,14 @@
 -- This is formatted to fit on a 1x3 wall of Advanced Monitors with an Advanced Computer connected to a side
 -- To get this to work you need to edit the streamid variable then run these five commands:
 
--- label set Leav
+-- label set SomeKindOfNameHere
 -- pastebin get WdiT6sR5 bootstrap
 -- bootstrap
--- DO NOT USE THIS LINE ORIGINAL -- github get coolacid/ComputerCraft/master/twitchdisplay.lua startup
--- github get Leavaris/Twitch-ComputerCraft-Display/master/Leavaris.lua startup
--- github get Leavaris/Twitch-ComputerCraft-Display/master/Leavaris.lua startup
+-- github get Leavaris/Twitch-ComputerCraft-Display/master/sharonmac3.lua startup
 -- startup
 
 -- Twitch Name of the Streamer
-streamid = "Leavaris"
+streamid = "sharonmac3"
 
 -- Set the Y line for where you want the different bits to go.
 line_streamer = 1

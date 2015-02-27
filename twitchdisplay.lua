@@ -11,7 +11,8 @@
 -- label set SomeKindOfNameHere
 -- pastebin get WdiT6sR5 bootstrap
 -- bootstrap
--- github get coolacid/ComputerCraft/master/twitchdisplay.lua startup
+-- DO NOT USE THIS LINE ORIGINAL -- github get coolacid/ComputerCraft/master/twitchdisplay.lua startup
+-- github get Leavaris/Twitch-ComputerCraft-Display/master/twitchdisplay.lua startup
 -- startup
 
 -- Twitch Name of the Streamer
